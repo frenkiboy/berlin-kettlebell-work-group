@@ -33,7 +33,6 @@ solo exercises:
       - upper - downer
       - crossbody cross
     
-    
   one hand:
     flips:
       - front flip
@@ -46,7 +45,9 @@ solo exercises:
       - leg flip
       - crossback flip
       - reverse cowboy flip
-      
+      - spiderman flip (one hand fake offer)
+      - palm down overhand flip - palm up catch - spiderman flip
+
     cowboy flip:
       - up cowboy
       - down cowboy
@@ -59,11 +60,16 @@ solo exercises:
          - figure 8 -> cowboy flip
          - figure 8 -> lateral swing
       - around the body spin
+        - around the body spin -> cross throw -> cannonball catch
+        - around the body spin -> cross throw -> **back bump**
+      - full dragon - single arm extended kettlebell catch with extended arm
+      - half dragon - single arm kettlebell catch with flexing arm
+      - baby dragon - two arm extended kettlebell catch
     
     holds:
       - vertical hold.
       - look! It's a kettlebell! 
-
+  
 pair exercises:
   basic throw
   flip throw
@@ -71,4 +77,5 @@ pair exercises:
   cannonball throw
   overhead throw
   - lateral throw from body spin.
+  granate werfen
 
