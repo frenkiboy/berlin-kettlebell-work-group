@@ -53,6 +53,7 @@ solo exercises:
       - down cowboy
       - side cowboy
       - crossbody cowboy
+      - inverse cross body cowboy (handle moves clockwise from above)
      
     catches:
       - cannonball catch
@@ -69,6 +70,10 @@ solo exercises:
     holds:
       - vertical hold.
       - look! It's a kettlebell! 
+
+    throws:
+      - crossbody flip
+      - behind the back throw
   
 pair exercises:
   basic throw
