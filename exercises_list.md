@@ -2,7 +2,8 @@
 
 ### Handle position towards the person
   - **vertical** vertical handle towards 
-  - **horizontal** horizontal handle towards 
+  - **horizontal** horizontal handle towards
+  - **JAK** handle up (just a kettlebell)
 
 ### Flip direction
   - **sombrero** - horizontal handle + horizontal flip
@@ -10,6 +11,7 @@
   - **cowboy** - vertical handle + vertical flip
   - **front** - horizontal handle + vertical flip up
   - **back** - horizontal handle + vertical flip down
+  - **helicopter** JAK + spins about the Y axis
 
 ## two hand:
   ### single flip:
@@ -27,6 +29,7 @@
         - also can be done with a throw - either 180 or 360 throw
       - double axis flip - we flip the kettlebell along horizontal and z axis
       - two hand cowboy - possible if handle is big (24kg or competition kb)
+      - helicopter spin - kettlebell is vertical, handle up, spin along Y axis
     
   ### double flip:
       - double front
@@ -101,6 +104,7 @@
      
 ### catches:
       - cannonball catch
+      - cannonball catch with lunge
       - figure 8 catch
          - figure 8 -> cowboy flip
          - figure 8 -> lateral swing
