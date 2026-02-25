@@ -25,6 +25,7 @@
         - best do it from cannonball catch - 
         - also can be done with a throw - either 180 or 360 throw
       - double axis flip - we flip the kettlebell along horizontal and z axis
+      - two hand cowboy - possible if handle is big (24kg or competition kb)
     
     ### double flip:
       - double front
@@ -118,4 +119,12 @@
   - kettlebell pong - two person competitive game where the person who doesn't catch the kettlebell looses
     - don't do it on ice
   - one hand improv
+
+## Primitives
+  - clean
+  - snatch
+  - squat
+  - lunge
+  - swing
+  - row
 
