@@ -1,17 +1,18 @@
 ## Nomenclature
-  ### Handle position towards the person
-    - **vertical** vertical handle towards 
-    - **horizontal** horizontal handle towards 
 
-  ### Flip direction
-    - **sombrero** - horizontal handle + horizontal flip
-    - **beer** - vertical handle + horizontal fip
-    - **cowboy** - vertical handle + vertical flip
-    - **front** - horizontal handle + vertical flip up
-    - **back** - horizontal handle + vertical flip down
+### Handle position towards the person
+  - **vertical** vertical handle towards 
+  - **horizontal** horizontal handle towards 
+
+### Flip direction
+  - **sombrero** - horizontal handle + horizontal flip
+  - **beer** - vertical handle + horizontal fip
+  - **cowboy** - vertical handle + vertical flip
+  - **front** - horizontal handle + vertical flip up
+  - **back** - horizontal handle + vertical flip down
 
 ## two hand:
-    ### single flip:
+  ### single flip:
       - front flip
       - back flip
       - side flip (sombrero)
@@ -27,7 +28,7 @@
       - double axis flip - we flip the kettlebell along horizontal and z axis
       - two hand cowboy - possible if handle is big (24kg or competition kb)
     
-    ### double flip:
+  ### double flip:
       - double front
       - double back
       - volleyball flip
@@ -38,15 +39,15 @@
       - bottom catch flip
           - similar to palm flip - you flip the ketllebell in palms for 360. Don't stop it but flip it in another direction
     
-    ### triple flip:
+  ### triple flip:
       - triple front - didn't manage 
     
-    ### throws:
+  ### throws:
       - overhead throw - throw with both hands behind the head
       - two hand long throws - throw the kettlebell as far as possible
       - two hand high throws - throw the gettlebell as high as possible
     
-    ### catches:
+  ### catches:
       - cannonball catch - grabbing the kettlebell from the air by vertical handles
         - can we done with squat
       - two hand bottom catch
@@ -55,14 +56,15 @@
       - 90deg cannonball catch - kettlebell is 90, one hand inside the handle, other one on the bottom
         - catch can also be on the outside of the handle
       
-    ### two bell flips:
+  ### two bell flips:
       - double front / back
       - upper - downer
       - crossbody cross
       - ring a round - each person hands the kettlebell to other person's opposite hand in a circle
     
-  ## one hand:
-    ### flips:
+## one hand:
+  
+### flips:
       - front flip
       - back flip
       - side flip (inner and outer) - sombrero
@@ -97,7 +99,7 @@
         - can be done by rotating body by 90deg towards the kettlebell
 
      
-   ### catches:
+### catches:
       - cannonball catch
       - figure 8 catch
          - figure 8 -> cowboy flip
@@ -110,24 +112,24 @@
       - baby dragon - two arm extended kettlebell catch
         - **motherfucker** - halo around the head + baby dragon
     
-    ### holds:
+### holds:
       - vertical hold - kettlebell vertically, player holds handle with one hand
       - cannonball hold - kettlebell above head like a cannonball
       - look! It's a kettlebell! - kettlebell in palm, arm streched (like full dragon + cannonball hold)
 
 
-    ### throws:
+### throws:
       - crossbody flip
       - crossback throw - throw the kettlebell to the partner from behind the back over the shoulder
       - granate werfen - throw sombrero from hip with one hand (very dangerous for the person catching - the person can explode)
       - cannonball throw
   
-## Games
+## games
   - kettlebell pong - two person competitive game where the person who doesn't catch the kettlebell looses
     - don't do it on ice
   - one hand improv
 
-## Primitives
+## primitives
   - clean
   - snatch
   - squat
