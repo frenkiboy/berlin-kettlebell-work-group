@@ -24,6 +24,7 @@
       - **wheel flip**
         - best do it from cannonball catch - 
         - also can be done with a throw - either 180 or 360 throw
+      - double axis flip - we flip the kettlebell along horizontal and z axis
     
     ### double flip:
       - double front
