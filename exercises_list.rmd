@@ -89,6 +89,13 @@
       - behind the twist - flip the kettlebell behind the back but rotate body 180 to catch
         - we tried it once
 
+      - front clock flip - kettlebell is parallel with player and flipped in front of body
+        - similar to wheel flip, but arms are changed
+
+      - lateral flip - front flip to the side
+        - not perfected - returning kettlebell hits knee
+        - can be done by rotating body by 90deg towards the kettlebell
+
      
    ### catches:
       - cannonball catch
