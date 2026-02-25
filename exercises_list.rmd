@@ -1,61 +1,94 @@
-solo exercises:
-  two hand:
-    single flip:
+## Nomenclature
+  ### Handle position towards the person
+    - **vertical** vertical handle towards 
+    - **horizontal** horizontal handle towards 
+
+  ### Flip direction
+    - **sombrero** - horizontal handle + horizontal flip
+    - **beer** - vertical handle + horizontal fip
+    - **cowboy** - vertical handle + vertical flip
+    - **front** - horizontal handle + vertical flip up
+    - **back** - horizontal handle + vertical flip down
+
+## two hand:
+    ### single flip:
       - front flip
       - back flip
-      - side flip
-      - palm spin
+      - side flip (sombrero)
+      - palm half flip 
+        - kettlebll spins in hands parallel 180, and we grab it
+      - palm flip
+        - kettlebels spins in palms parallel 360 and you grab it (part of flip - squat cycle)
       - fake offer
         - fake offer -> flip 
+      - **wheel flip**
+        - best do it from cannonball catch - 
+        - also can be done with a throw - either 180 or 360 throw
     
-    double flip:
+    ### double flip:
       - double front
       - double back
       - volleyball flip
-      - stop flip
-        - front stop
-        - back stop
-      - catch flip
+      - stop flip 
+        - you stop a flipping ketllebell by hitting it on a handle and catching with other hand
+          - front stop
+          - back stop
+      - bottom catch flip
+          - similar to palm flip - you flip the ketllebell in palms for 360. Don't stop it but flip it in another direction
     
-    triple flip:
-      - triple front
+    ### triple flip:
+      - triple front - didn't manage 
     
-    throws:
-      - cannonball throw
-      - overhead throw
+    ### throws:
+      - overhead throw - throw with both hands behind the head
+      - two hand long throws - throw the kettlebell as far as possible
+      - two hand high throws - throw the gettlebell as high as possible
     
-    catches:
-      - cannonball catch
-      - cannonball squat
+    ### catches:
+      - cannonball catch - grabbing the kettlebell from the air by vertical handles
+        - can we done with squat
+      - two hand bottom catch
+      - two hand false offer catch 
+      - inverse cannonball catch - like cannonball but kettlebell is 180 (bottom up)
+      - 90deg cannonball catch - kettlebell is 90, one hand inside the handle, other one on the bottom
+        - catch can also be on the outside of the handle
       
-    two bell flips:
+    ### two bell flips:
       - double front / back
       - upper - downer
       - crossbody cross
+      - ring a round - each person hands the kettlebell to other person's opposite hand in a circle
     
-  one hand:
-    flips:
+  ## one hand:
+    ### flips:
       - front flip
       - back flip
-      - side flip (inner and outer)
-      - palm spin
-      - vertical palm spin
-      - crossbody side flip
-      - open shoulder flip
-      - leg flip
-      - crossback flip
-      - reverse cowboy flip
-      - spiderman flip (one hand fake offer)
-      - palm down overhand flip - palm up catch - spiderman flip
+      - side flip (inner and outer) - sombrero
+      - palm spin - palm forward kettlebell spins in palm with the handle towards player
+      - vertical palm spin - palm up, kettlebell spins on palm handle above (very dangerous)
 
-    cowboy flip:
-      - up cowboy
-      - down cowboy
-      - side cowboy
-      - crossbody cowboy
-      - inverse cross body cowboy (handle moves clockwise from above)
+      - cowboy flip
+        - up cowboy
+        - down cowbody
+        - crossbody cowboy
+        - inverse cross body cowboy (handle moves clockwise from above)
+        - beer flip (in or out) - like a beer jug
+    
+      - **open shoulder flip** - don't remember
+      - leg flip - flip while standing one one leg, below the risen leg
+      - spiderman flip (one hand fake offer) - flip it from below, palm up
+        - palm down back  flip - palm up catch - spiderman flip
+        - can be done by switching hands
+
+      - **wheel flip** - have to try it out, might not be possible
+      - behind the back - flip the kettlebell behind the back
+        - pure behind the back
+        - towards the front - helps if player raises on toes when flipping (much stronger flip)
+      - behind the twist - flip the kettlebell behind the back but rotate body 180 to catch
+        - we tried it once
+
      
-    catches:
+   ### catches:
       - cannonball catch
       - figure 8 catch
          - figure 8 -> cowboy flip
@@ -66,21 +99,22 @@ solo exercises:
       - full dragon - single arm extended kettlebell catch with extended arm
       - half dragon - single arm kettlebell catch with flexing arm
       - baby dragon - two arm extended kettlebell catch
+        - **motherfucker** - halo around the head + baby dragon
     
-    holds:
-      - vertical hold.
-      - look! It's a kettlebell! 
+    ### holds:
+      - vertical hold - kettlebell vertically, player holds handle with one hand
+      - cannonball hold - kettlebell above head like a cannonball
+      - look! It's a kettlebell! - kettlebell in palm, arm streched (like full dragon + cannonball hold)
 
-    throws:
+
+    ### throws:
       - crossbody flip
-      - behind the back throw
+      - crossback throw - throw the kettlebell to the partner from behind the back over the shoulder
+      - granate werfen - throw sombrero from hip with one hand (very dangerous for the person catching - the person can explode)
+      - cannonball throw
   
-pair exercises:
-  basic throw
-  flip throw
-  double flip throw
-  cannonball throw
-  overhead throw
-  - lateral throw from body spin.
-  granate werfen
+## Games
+  - kettlebell pong - two person competitive game where the person who doesn't catch the kettlebell looses
+    - don't do it on ice
+  - one hand improv
 
